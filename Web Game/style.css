@@ -1,0 +1,13 @@
+#gameCanvas
+{
+    
+    width :800; 
+    height:600;
+}
+/*@media screen and (max-width :640px)
+{
+    /*#gameCanvas
+    {
+        width: ;
+        height: 300px;
+    }*/
